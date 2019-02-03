@@ -1,4 +1,4 @@
-![FinCharts](https://raw.githubusercontent.com/GoGross/fincharts/master/fincharts_small.png)
+![FinCharts](https://raw.githubusercontent.com/fincharts/api/master/fincharts_small.png)
 
 # FinCharts
 
