@@ -1,0 +1,25 @@
+{
+  "name": "fincharts",
+  "version": "1.2.1",
+  "description": "![FinCharts](https://raw.githubusercontent.com/GoGross/fincharts/master/fincharts_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoGross/fincharts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoGross/fincharts/issues"
+  },
+  "homepage": "https://github.com/GoGross/fincharts#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "fincharts": "^1.0.0",
+    "request": "^2.87.0"
+  }
+}
