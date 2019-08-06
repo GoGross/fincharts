@@ -44,7 +44,7 @@ This documentation mainly focuses on developer/technical integration for applica
 
 ## API
 
-FinCharts exposes its data via an Application Programming Interface (API), so developers can interact in a programmatic way with the FinCharts application. This document is the official reference for that functionality. The current API version is 1.0.0
+FinCharts exposes its data via an Application Programming Interface (API), so developers can interact in a programmatic way with the FinCharts application. This document is the official reference for that functionality. The current API version is 2.0.0
 
 ## Authentication
 
