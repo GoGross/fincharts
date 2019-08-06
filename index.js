@@ -17,8 +17,9 @@ exports.current = function( api_key, options ) {
 		request ( { url : url }, function ( error, response, body ) {
 			if (error) {
 				return reject(error)
+			}else{
+				return resolve(body)
 			}
-			return resolve(body)
 		} );
 	})
 };
@@ -29,8 +30,9 @@ exports.exchange = function ( api_key, options ) {
 		request ( { url : url }, function ( error, response, body ) {
 			if (error) {
 				return reject(error)
+			}else{
+				return resolve(body)
 			}
-			return resolve(body)
 		} );
 	})
 };
@@ -41,8 +43,9 @@ exports.specific = function ( api_key, options ) {
 		request ( { url : url }, function ( error, response, body ) {
 			if (error) {
 				return reject(error)
+			}else{
+				return resolve(body)
 			}
-			return resolve(body)
 		} );
 	})
 };
@@ -53,8 +56,9 @@ exports.historic = function ( api_key, options ) {
 		request ( { url : url }, function ( error, response, body ) {
 			if (error) {
 				return reject(error)
+			}else{
+				return resolve(body)
 			}
-			return resolve(body)
 		} );
 	})
 };
@@ -65,8 +69,9 @@ exports.fluctuation = function ( api_key, options ) {
 		request ( { url : url }, function ( error, response, body ) {
 			if (error) {
 				return reject(error)
+			}else{
+				return resolve(body)
 			}
-			return resolve(body)
 		} );
 	})
 };

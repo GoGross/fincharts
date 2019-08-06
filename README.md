@@ -88,7 +88,7 @@ const request = require ( 'request' );
 
 let api_key  = 'my_free_api_key', // signup for free at fincharts.info
     baseURL  = 'https://api.fincharts.info',
-    endpoint = 'current',
+    endpoint = '/current',
     url      = baseURL + endpoint + '?key=' + api_key;
 
 request ( { url : url }, function ( error, response, body ) {
