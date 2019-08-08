@@ -1,6 +1,6 @@
 ![FinCharts](https://raw.githubusercontent.com/fincharts/api/master/fincharts_small.png)
 
-# FinCharts
+# FinCharts Premium
 
 FinCharts is a thorough provider of high fidelity, synchronous and trusted API for live and historical global currency exchange rates and conversions as published by over twenty sources. The aim of FinCharts is to offer both user interpretable and consumable data to suit all use cases. As part of it’s mandate, FinCharts thrives to disseminate its data through several methods such as Simple Object Access Protocol (SOAP), RSS, Interactive APIs, downloadable mobile applications, live flash video feeds for screen displays, desktop applications and web applications.
 

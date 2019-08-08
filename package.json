@@ -1,6 +1,6 @@
 {
   "name": "fincharts",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "![FinCharts](https://github.com/fincharts/api/master/fincharts_small.png)",
   "main": "index.js",
   "scripts": {
